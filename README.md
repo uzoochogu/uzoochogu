@@ -26,11 +26,11 @@ For my Robotics stack, I am familiar with the Arduino and Arduino C compatible b
 In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Scikit-Learn etc, I will explore some C++ Libraries later.
 
 📫You can reach me here:
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?style=social) 
 <!-- https://twitter.com/uzo_ochogu -->
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
 
-[Instagram](https://instagram.com/uzo_ochogu)
 
  🔭Current projects (Check repos): Modern C++ (C++20) concepts, Spam mail classifier, Data Structures and Algorithms
 
