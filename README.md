@@ -20,16 +20,18 @@ I'm an Engineer. I have a B.Eng in Mechatronics Engineer and I am really interes
 
 
 ### Tools I use
+![CPP Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=Python&style=flat)
+
 I primarily use C, C++ and Python but I have found myself picking up Kotlin and C# depending on the job. 
 For Cross platform Application development, I use C++ with wxWidgets and have started going through QT since it is popular in industry.
 For my Robotics stack, I am familiar with the Arduino and Arduino C compatible boards, C for PIC 8 bit architecture and ROS.
 In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Scikit-Learn etc, I will explore some C++ Libraries later.
 
-📫You can reach me here:
+### 📫You can reach me here:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?label=%40uzo_ochogu&style=social) 
 <!-- https://twitter.com/uzo_ochogu -->
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uzochukwu Ochogu](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
 
 
  🔭Current projects (Check repos): Modern C++ (C++20) concepts, Spam mail classifier, Data Structures and Algorithms
