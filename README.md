@@ -24,7 +24,7 @@ I'm an Engineer. I have a B.Eng in Mechatronics Engineer and I am really interes
 
 I primarily use C, C++ and Python but I have found myself picking up Kotlin and C# depending on the job. 
 For Cross platform Application development, I use C++ with wxWidgets and have started going through QT since it is popular in industry.
-For my Robotics stack, I am familiar with the Arduino and Arduino C compatible boards, C for PIC 8 bit architecture and ROS.
+For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture and ROS.
 In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Scikit-Learn etc, I will explore some C++ Libraries later.
 
 ### 📫You can reach me here:
