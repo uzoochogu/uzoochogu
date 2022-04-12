@@ -26,6 +26,12 @@ I primarily use C, C++ and Python. For Cross platform Application development, I
 For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture and ROS.
 In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn etc, I will explore some C++ Machine Learning Libraries later.
 
+### Current Industry Interests and Application Areas
+1. Embedded systems and Robotics
+2. Financial Systems (High Frequency Trading)
+3. 3D software and Game Development
+3. HPC for Machine Learning models
+
 ### 📫You can reach me here:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?label=%40uzo_ochogu&style=social) 
