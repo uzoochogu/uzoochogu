@@ -39,5 +39,5 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uzochukwu Ochogu](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
 
 
- 🔭Current projects (Check repos): Modern C++ (C++20) concepts, Spam mail classifier, Data Structures and Algorithms
+ 🔭Current projects (Check repos): Modern C++ (C++20) concepts, Spam mail classifier (Almost complete), Data Structures and Algorithms
 
