@@ -39,5 +39,5 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uzochukwu Ochogu](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
 
 
- 🔭Current projects (Check repos): Modern C++ (C++20) concepts, A description of Common Machine Learning Models (Machine Learning Projects repository), Data Structures and Algorithms
+ 🔭Current projects (Check repos): [Modern C++ (C++20) concepts](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/modern-cpp-concepts), [A description of Common Machine Learning Model](https://github.com/uzoochogu/Machine-Learning-Projects), [Data Structures and Algorithms](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/Data-Structures-and-Algorithms). I am also working on my [Machine Learning projects portfolio](https://uzoochogu.github.io/Machine-Learning-Projects/)
 
