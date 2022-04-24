@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello 👋, I'm Uzochukwu Ochogu!
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Uzochukwu Ochogu!
 
 ### About me
 I'm an Engineer. I have a B.Eng in Mechatronics Engineer and I am really interested in Robotics and Automation. I also consider myself a Data Scientist and Machine Learning Engineer but I have dabbled in Application development using C++ so I guess I am a Software Engineer too. As a hobby, I make short films and I am in love with the film making process.
@@ -39,5 +39,19 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uzochukwu Ochogu](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
 
 
- 🔭Current projects (Check repos): [Modern C++ (C++20) concepts](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/modern-cpp-concepts), [A description of Common Machine Learning Model](https://github.com/uzoochogu/Machine-Learning-Projects), [Data Structures and Algorithms](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/Data-Structures-and-Algorithms). I am also working on my [Machine Learning projects portfolio](https://uzoochogu.github.io/Machine-Learning-Projects/)
+ 🔭Current projects: 
+ 1. [Modern C++ (C++20) concepts](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/modern-cpp-concepts).
+ 2. [A description of Common Machine Learning Model](https://github.com/uzoochogu/Machine-Learning-Projects).
+ 3. [Data Structures and Algorithms](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/Data-Structures-and-Algorithms). 
+ 4. [My Machine Learning projects portfolio](https://uzoochogu.github.io/Machine-Learning-Projects/).
 
+<!--
+
+## 📈 Stats
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=uzoochogu&show_icons=true&theme=merko" />
+
+</p>
+
+-->
