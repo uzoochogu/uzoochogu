@@ -28,9 +28,9 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
 
 ### Current Industry Interests and Application Areas
 1. Embedded systems and Robotics
-2. Financial Systems (High Frequency Trading)
+2. Financial Systems (Trading Algorithms for High Frequency Trading)
 3. 3D software and Game Development
-3. HPC for Machine Learning models
+4. High Performance Computing for Machine Learning models
 
 ### 📫You can reach me here:
 
