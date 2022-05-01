@@ -44,6 +44,8 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
  2. [A description of Common Machine Learning Model](https://github.com/uzoochogu/Machine-Learning-Projects).
  3. [Data Structures and Algorithms](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/Data-Structures-and-Algorithms). 
  4. [My Machine Learning projects portfolio](https://uzoochogu.github.io/Machine-Learning-Projects/).
+ 5. A rendering engine with Vulcan - Planning phase.
+ 6. A Crypto-trading bot on FTX (to test Algortimic Trading) - Planning phase.
 
 <!--
 
