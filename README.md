@@ -41,11 +41,12 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
 
  🔭Current projects: 
  1. [Modern C++ (C++20) concepts](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/modern-cpp-concepts).
- 2. [A description of Common Machine Learning Model](https://github.com/uzoochogu/Machine-Learning-Projects).
+ 2. [A description of Common Machine Learning Models](https://github.com/uzoochogu/Machine-Learning-Projects).
  3. [Data Structures and Algorithms](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/Data-Structures-and-Algorithms). 
  4. [My Machine Learning projects portfolio](https://uzoochogu.github.io/Machine-Learning-Projects/).
  5. [A rendering engine with Vulcan](https://github.com/uzoochogu/ice-blade-engine) - Planning phase.
  6. [A Crypto-trading bot on FTX](https://github.com/uzoochogu/cpp_crypto_algos)(to test Algortimic Trading) - Planning phase.
+ 7. [A shared library for parsing CSVs](https://github.com/uzoochogu/Koalas) - Planning Phase
 
 <!--
 
