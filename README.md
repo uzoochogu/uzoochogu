@@ -47,6 +47,7 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
  5. [A rendering engine with Vulcan](https://github.com/uzoochogu/ice-blade-engine) - Planning phase.
  6. [A Crypto-trading bot on FTX](https://github.com/uzoochogu/cpp_crypto_algos) (to test Algortimic Trading) - Planning phase.
  7. [A shared library for parsing CSVs](https://github.com/uzoochogu/Ursidae) - WIP
+ 8. [A GUI for Seven Segment Recognition using JUCE](https://github.com/uzoochogu/Machine-Learning-Projects/tree/main/cpp-neural-network-implementation) - WIP (CLI operational)
 
 <!--
 
