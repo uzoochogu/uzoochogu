@@ -32,19 +32,18 @@ In my Machine Learning Projects, I use Python and some useful libraries like Num
 3. 3D software and Game Development
 4. High Performance Computing for Machine Learning models
 
-### 📫You can reach me here:
+### 📫You can reach me here: ![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?label=%40uzo_ochogu&style=social)     [![LinkedIn](https://img.shields.io/badge/Uzochukwu%20Ochogu-500+-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uzochukwu-ochogu-chibueze/)](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?label=%40uzo_ochogu&style=social) 
 <!-- https://twitter.com/uzo_ochogu -->
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uzochukwu Ochogu](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze)
+<!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uzochukwu Ochogu](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze) -->
 
 
- 🔭Current projects: 
+ ### 🔭Current projects: 
  1. [Modern C++ (C++20) concepts](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/modern-cpp-concepts).
  2. [A description of Common Machine Learning Models](https://github.com/uzoochogu/Machine-Learning-Projects).
  3. [Data Structures and Algorithms](https://github.com/uzoochogu/Console-Apps-with-cpp/tree/master/Data-Structures-and-Algorithms). 
  4. [My Machine Learning projects portfolio](https://uzoochogu.github.io/Machine-Learning-Projects/).
- 5. [A rendering engine with Vulcan](https://github.com/uzoochogu/ice-blade-engine) - Planning phase.
+ 5. [A rendering engine with Vulkan](https://github.com/uzoochogu/ice-blade-engine) - Planning phase.
  6. [A Crypto-trading bot on FTX](https://github.com/uzoochogu/cpp_crypto_algos) (to test Algortimic Trading) - Planning phase.
  7. [A shared library for parsing CSVs](https://github.com/uzoochogu/Ursidae) - WIP
  8. [A GUI for Seven Segment Recognition using JUCE](https://github.com/uzoochogu/Machine-Learning-Projects/tree/main/cpp-neural-network-implementation) - WIP (CLI operational)
