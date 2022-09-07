@@ -22,9 +22,7 @@ I'm an Engineer. I have a B.Eng in Mechatronics Engineer and I am really interes
 ### Tools I use
 ![CPP Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=Python&style=flat)
 
-I primarily use C, C++ and Python. For Cross platform Application development, I use C++ with wxWidgets and have started going through QT since it is popular in industry.
-For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture and ROS.
-In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn etc, I will explore some C++ Machine Learning Libraries later.
+I primarily use C, C++ and Python.For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture and ROS. In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn etc, I will explore some C++ Machine Learning Libraries later.
 
 ### Current Industry Interests and Application Areas
 1. Embedded systems and Robotics
