@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" >, I'm Uzochukwu Ochogu!
 
 ### About me
-I'm an Engineer. I have a B.Eng in Mechatronics Engineer and I am really interested in Robotics and Automation. I also consider myself a Data Scientist and Machine Learning Engineer but I have dabbled in Application development using C++ so I guess I am a Software Engineer too. As a hobby, I make short films and I am in love with the film making process.
+I'm a Systems and Application software engineer. I also dabble in Robotics and Machine Learning.
 
 
 ### Tools I use
 ![CPP Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=Python&style=flat)
 
-I primarily use C, C++ and Python.For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture and ROS. In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn etc, I will explore some C++ Machine Learning Libraries later.
+I primarily use C, C++ and Python. For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture, Gazebo and ROS. In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn etc, I will explore some C++ Machine Learning Libraries later.
 
 ### Current Industry Interests and Application Areas
 1. Embedded systems and Robotics
