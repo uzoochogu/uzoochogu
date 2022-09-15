@@ -22,7 +22,7 @@ I'm a Systems and Application software engineer. I also dabble in Robotics and M
 ### Tools I use
 ![CPP Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=Python&style=flat)
 
-I primarily use C, C++ and Python. For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture, Gazebo and ROS. In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn etc, I will explore some C++ Machine Learning Libraries later.
+I primarily use C, C++ and Python. For my Robotics stack, I am familiar with the Arduino C compatible boards, C for PIC 8 bit architecture, Gazebo and ROS. In my Machine Learning Projects, I use Python and some useful libraries like Numpy, Pandas, Scikit-Learn, Beautiful Soup, TensorFlow etc.
 
 ### Current Industry Interests and Application Areas
 1. Embedded systems and Robotics
