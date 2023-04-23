@@ -4,12 +4,12 @@ System and Application software engineer. I also dabble in Robotics and Machine 
 
 ![CPP Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=Python&style=flat)
 
-### My Repositaries will be primarily about
+### Topics:
 1. Embedded systems and Robotics.
 2. Financial Systems (Trading Algorithms for High Frequency Trading).
 3. Computer graphics and Game Development.
 4. High Performance Computing and AI/ML Backends.
-5. System software
+5. System software.
 
 ### Connect with me 📫: ![Twitter Follow](https://img.shields.io/twitter/follow/uzo_ochogu?label=%40uzo_ochogu&style=social)     [![LinkedIn](https://img.shields.io/badge/Uzochukwu%20Ochogu-500+-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uzochukwu-ochogu-chibueze/)](https://www.linkedin.com/in/uzochukwu-ochogu-chibueze/)
 
@@ -22,7 +22,11 @@ System and Application software engineer. I also dabble in Robotics and Machine 
  5. [A rendering engine with Vulkan](https://github.com/uzoochogu/ice-blade-engine) - Planning phase.
  6. [A Crypto-trading bot on FTX](https://github.com/uzoochogu/cpp_crypto_algos) (to test Algortimic Trading) - Planning phase.
  7. [A shared library for parsing CSVs](https://github.com/uzoochogu/Ursidae) - WIP
-8. [A GUI for Seven Segment Recognition using JUCE](https://github.com/uzoochogu/Machine-Learning-Projects/tree/main/cpp-neural-network-implementation) - WIP (CLI operational) -->
+ 8. [A GUI for Seven Segment Recognition using JUCE](https://github.com/uzoochogu/Machine-Learning-Projects/tree/main/cpp-neural-network-implementation) - WIP (CLI operational) 
+ 9. cpp concepts and practices - A repositary sharing intemediary projects and concepts used in the industry                                            
+
+
+-->
 
 <!--
 
